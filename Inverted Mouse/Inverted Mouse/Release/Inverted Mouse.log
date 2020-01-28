@@ -1,0 +1,8 @@
+﻿  Main.cpp
+  Generating code
+c:\users\dopme\dev\cpp\inverted mouse\inverted mouse\main.cpp(19): error C4700: uninitialized local variable 'z' used
+c:\users\dopme\dev\cpp\inverted mouse\inverted mouse\main.cpp(19): error C4700: uninitialized local variable 'w' used
+c:\users\dopme\dev\cpp\inverted mouse\inverted mouse\main.cpp(19): error C4700: uninitialized local variable 'y' used
+c:\users\dopme\dev\cpp\inverted mouse\inverted mouse\main.cpp(19): error C4700: uninitialized local variable 'x' used
+  All 11 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+LINK : fatal error LNK1257: code generation failed

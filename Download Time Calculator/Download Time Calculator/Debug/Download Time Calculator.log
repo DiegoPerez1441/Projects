@@ -1,0 +1,4 @@
+﻿  Download Time Calculator.cpp
+C:\Users\Diego\Dev\C++\Download Time Calculator\Download Time Calculator\Download Time Calculator.cpp(116,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Diego\Dev\C++\Download Time Calculator\Download Time Calculator\Download Time Calculator.cpp(122,21): warning C4018:  '<': signed/unsigned mismatch
+  Download Time Calculator.vcxproj -> C:\Users\Diego\Dev\C++\Download Time Calculator\Debug\Download Time Calculator.exe
